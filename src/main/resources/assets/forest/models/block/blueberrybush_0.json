@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "forest:blocks/blueberry_bush0",
+    "particle": "forest:blocks/blueberry_bush0"
+  }
+}

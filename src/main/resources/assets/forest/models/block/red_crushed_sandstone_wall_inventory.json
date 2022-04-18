@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "forest:blocks/red_crushed_sandstone",
+    "particle": "forest:blocks/red_crushed_sandstone"
+  }
+}

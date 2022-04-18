@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "forest:crystal_block"
+    }
+  ],
+  "result": {
+    "item": "forest:lime_crystal_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 29,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_shovel",
+    "customModelName": "Normal",
+    "name": "Silver Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilverCategory"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 6.5,
+    "attackSpeed": 0.19999999999999998,
+    "enchantability": 21,
+    "damageVsEntity": 3.0,
+    "usageCount": 450,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest:blocks/forest_lemon_wood_up",
+    "up": "forest:blocks/forest_lemon_wood_down",
+    "north": "forest:blocks/forest_lemon_wood_side",
+    "east": "forest:blocks/forest_lemon_wood_side",
+    "south": "forest:blocks/forest_lemon_wood_side",
+    "west": "forest:blocks/forest_lemon_wood_side",
+    "particle": "forest:blocks/forest_lemon_wood_up"
+  }
+}

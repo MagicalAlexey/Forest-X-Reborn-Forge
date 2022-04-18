@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "forest:blocks/forest_peach_wood_side",
+    "particle": "forest:blocks/forest_peach_wood_side"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 29,
+  "_type": "tab",
+  "definition": {
+    "name": "Desert Category",
+    "icon": {
+      "value": "CUSTOM:CrushedSandstone"
+    },
+    "showSearch": false
+  }
+}

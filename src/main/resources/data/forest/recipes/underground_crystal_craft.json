@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    },
+    {
+      "item": "forest:crystal_dust"
+    }
+  ],
+  "result": {
+    "item": "forest:underground_crystal",
+    "count": 1
+  }
+}

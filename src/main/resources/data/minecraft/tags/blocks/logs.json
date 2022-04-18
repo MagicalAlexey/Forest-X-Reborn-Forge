@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "forest:peach_log",
+    "forest:lemon_log",
+    "forest:burned_log",
+    "forest:pear_log",
+    "forest:cherry_log"
+  ]
+}

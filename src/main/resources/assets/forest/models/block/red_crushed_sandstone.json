@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest:blocks/red_crushed_sandstone",
+    "up": "forest:blocks/red_crushed_sandstone",
+    "north": "forest:blocks/red_crushed_sandstone",
+    "east": "forest:blocks/red_crushed_sandstone",
+    "south": "forest:blocks/red_crushed_sandstone",
+    "west": "forest:blocks/red_crushed_sandstone",
+    "particle": "forest:blocks/red_crushed_sandstone"
+  }
+}

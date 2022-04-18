@@ -1,0 +1,11 @@
+{
+  "_fv": 29,
+  "_type": "tab",
+  "definition": {
+    "name": "Berries",
+    "icon": {
+      "value": "CUSTOM:Blueberry"
+    },
+    "showSearch": false
+  }
+}

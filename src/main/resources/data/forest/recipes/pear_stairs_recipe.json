@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "forest:pear_planks"
+    },
+    "3": {
+      "item": "forest:pear_planks"
+    },
+    "4": {
+      "item": "forest:pear_planks"
+    },
+    "6": {
+      "item": "forest:pear_planks"
+    },
+    "7": {
+      "item": "forest:pear_planks"
+    },
+    "8": {
+      "item": "forest:pear_planks"
+    }
+  },
+  "result": {
+    "item": "forest:pear_stairs",
+    "count": 4
+  }
+}

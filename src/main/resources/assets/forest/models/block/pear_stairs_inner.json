@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "forest:blocks/forest_pear_planks",
+    "top": "forest:blocks/forest_pear_planks",
+    "side": "forest:blocks/forest_pear_planks"
+  }
+}

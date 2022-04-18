@@ -1,0 +1,47 @@
+{
+  "record.egypt": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "forest:egypt",
+        "stream": true
+      }
+    ]
+  },
+  "mummy.ambient": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "forest:ambient",
+        "stream": false
+      }
+    ]
+  },
+  "mummy.step": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "forest:step",
+        "stream": false
+      }
+    ]
+  },
+  "mummy.hurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "forest:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "mummy.death": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "forest:death",
+        "stream": false
+      }
+    ]
+  }
+}

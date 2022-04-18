@@ -1,0 +1,31 @@
+{
+  "_fv": 29,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_axe",
+    "customModelName": "Normal",
+    "name": "Silver Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilverCategory"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 6.5,
+    "attackSpeed": 0.6,
+    "enchantability": 21,
+    "damageVsEntity": 12.0,
+    "usageCount": 450,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

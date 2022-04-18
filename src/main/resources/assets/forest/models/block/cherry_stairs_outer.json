@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "forest:blocks/forest_cherry_planks",
+    "top": "forest:blocks/forest_cherry_planks",
+    "side": "forest:blocks/forest_cherry_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest:blocks/burned_log_top",
+    "up": "forest:blocks/burned_log_top",
+    "north": "forest:blocks/burned_log",
+    "east": "forest:blocks/burned_log",
+    "south": "forest:blocks/burned_log",
+    "west": "forest:blocks/burned_log",
+    "particle": "forest:blocks/burned_log_top"
+  }
+}

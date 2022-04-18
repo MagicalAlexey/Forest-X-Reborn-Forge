@@ -1,0 +1,31 @@
+{
+  "_fv": 29,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_sword",
+    "customModelName": "Normal",
+    "name": "Silver Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilverCategory"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 6.5,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 21,
+    "damageVsEntity": 7.0,
+    "usageCount": 450,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "forest:block/crystal_block"
+    }
+  }
+}

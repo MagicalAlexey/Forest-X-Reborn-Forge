@@ -1,0 +1,46 @@
+{
+  "_fv": 29,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PeachPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PeachPlanks"
+      },
+      {
+        "value": "CUSTOM:PeachPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PeachPlanks"
+      },
+      {
+        "value": "CUSTOM:PeachPlanks"
+      },
+      {
+        "value": "CUSTOM:PeachPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PeachStairs"
+    },
+    "name": "peach_stairs_recipe",
+    "namespace": "mod"
+  }
+}

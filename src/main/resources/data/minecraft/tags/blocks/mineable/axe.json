@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "forest:cherry_wood",
+    "forest:cherry_log",
+    "forest:cherry_planks",
+    "forest:lemon_log",
+    "forest:lemon_wood",
+    "forest:lemon_planks",
+    "forest:peach_wood",
+    "forest:peach_log",
+    "forest:peach_planks",
+    "forest:pear_wood",
+    "forest:pear_log",
+    "forest:pear_planks",
+    "forest:burned_log",
+    "forest:burned_planks"
+  ]
+}

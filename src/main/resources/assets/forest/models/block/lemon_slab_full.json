@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "forest:blocks/forest_lemon_planks",
+    "top": "forest:blocks/forest_lemon_planks",
+    "side": "forest:blocks/forest_lemon_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest:blocks/crystal_block_brown",
+    "up": "forest:blocks/crystal_block_brown",
+    "north": "forest:blocks/crystal_block_brown",
+    "east": "forest:blocks/crystal_block_brown",
+    "south": "forest:blocks/crystal_block_brown",
+    "west": "forest:blocks/crystal_block_brown",
+    "particle": "forest:blocks/crystal_block_brown"
+  }
+}

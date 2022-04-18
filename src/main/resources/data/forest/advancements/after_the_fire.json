@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "forest:ash_block"
+    },
+    "title": {
+      "translate": "advancements.after_the_fire.title"
+    },
+    "description": {
+      "translate": "advancements.after_the_fire.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "after_the_fire": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "forest:burned_forest"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

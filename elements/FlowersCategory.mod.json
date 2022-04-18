@@ -1,0 +1,11 @@
+{
+  "_fv": 29,
+  "_type": "tab",
+  "definition": {
+    "name": "Flowers Category",
+    "icon": {
+      "value": "CUSTOM:Lavander"
+    },
+    "showSearch": false
+  }
+}

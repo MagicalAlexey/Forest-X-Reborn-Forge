@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest:blocks/crystal_block_lime",
+    "up": "forest:blocks/crystal_block_lime",
+    "north": "forest:blocks/crystal_block_lime",
+    "east": "forest:blocks/crystal_block_lime",
+    "south": "forest:blocks/crystal_block_lime",
+    "west": "forest:blocks/crystal_block_lime",
+    "particle": "forest:blocks/crystal_block_lime"
+  }
+}

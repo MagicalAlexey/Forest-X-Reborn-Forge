@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest:blocks/crystal_block_purpler",
+    "up": "forest:blocks/crystal_block_purpler",
+    "north": "forest:blocks/crystal_block_purpler",
+    "east": "forest:blocks/crystal_block_purpler",
+    "south": "forest:blocks/crystal_block_purpler",
+    "west": "forest:blocks/crystal_block_purpler",
+    "particle": "forest:blocks/crystal_block_purpler"
+  }
+}

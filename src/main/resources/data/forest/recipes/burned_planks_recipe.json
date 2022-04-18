@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forest:burned_log"
+    }
+  ],
+  "result": {
+    "item": "forest:burned_planks",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forest:block/lemon_slab"
+    },
+    "type=top": {
+      "model": "forest:block/lemon_slab_top"
+    },
+    "type=double": {
+      "model": "forest:block/lemon_slab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "forest:blocks/pear_sapling",
+    "particle": "forest:blocks/pear_sapling"
+  }
+}

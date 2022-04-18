@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "forest:peach_planks"
+    },
+    "1": {
+      "item": "forest:peach_planks"
+    },
+    "2": {
+      "item": "forest:peach_planks"
+    }
+  },
+  "result": {
+    "item": "forest:peach_slab",
+    "count": 6
+  }
+}

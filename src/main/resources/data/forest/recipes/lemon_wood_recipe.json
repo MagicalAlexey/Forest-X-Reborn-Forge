@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "forest:lemon_log"
+    },
+    "1": {
+      "item": "forest:lemon_log"
+    },
+    "2": {
+      "item": "forest:lemon_log"
+    },
+    "3": {
+      "item": "forest:lemon_log"
+    }
+  },
+  "result": {
+    "item": "forest:lemon_wood",
+    "count": 3
+  }
+}

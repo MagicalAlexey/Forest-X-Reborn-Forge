@@ -1,0 +1,29 @@
+{
+  "_fv": 29,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:CherryLog"
+      },
+      {
+        "value": "CUSTOM:LemonLog"
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": "CUSTOM:PearLog"
+      },
+      {
+        "value": "CUSTOM:BurnedLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forest:block/cherry_slab"
+    },
+    "type=top": {
+      "model": "forest:block/cherry_slab_top"
+    },
+    "type=double": {
+      "model": "forest:block/cherry_slab_full"
+    }
+  }
+}

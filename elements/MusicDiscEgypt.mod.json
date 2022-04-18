@@ -1,0 +1,17 @@
+{
+  "_fv": 29,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_egypt",
+    "name": "Music Disc",
+    "description": "Popcap - Egypt",
+    "creativeTab": {
+      "value": "CUSTOM:DesertCategory"
+    },
+    "music": {
+      "value": "CUSTOM:record.egypt"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

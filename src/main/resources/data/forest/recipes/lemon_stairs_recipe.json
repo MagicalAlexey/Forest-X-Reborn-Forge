@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "forest:lemon_planks"
+    },
+    "3": {
+      "item": "forest:lemon_planks"
+    },
+    "4": {
+      "item": "forest:lemon_planks"
+    },
+    "6": {
+      "item": "forest:lemon_planks"
+    },
+    "7": {
+      "item": "forest:lemon_planks"
+    },
+    "8": {
+      "item": "forest:lemon_planks"
+    }
+  },
+  "result": {
+    "item": "forest:lemon_stairs",
+    "count": 4
+  }
+}

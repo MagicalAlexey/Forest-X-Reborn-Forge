@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "forest:lemon_planks"
+    },
+    "1": {
+      "item": "forest:lemon_planks"
+    },
+    "2": {
+      "item": "forest:lemon_planks"
+    }
+  },
+  "result": {
+    "item": "forest:lemon_slab",
+    "count": 6
+  }
+}

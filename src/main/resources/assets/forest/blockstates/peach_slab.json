@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forest:block/peach_slab"
+    },
+    "type=top": {
+      "model": "forest:block/peach_slab_top"
+    },
+    "type=double": {
+      "model": "forest:block/peach_slab_full"
+    }
+  }
+}

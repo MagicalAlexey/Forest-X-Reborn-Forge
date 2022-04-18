@@ -1,0 +1,31 @@
+{
+  "_fv": 29,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_hoe",
+    "customModelName": "Normal",
+    "name": "Silver Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SilverCategory"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 6.5,
+    "attackSpeed": 0.2,
+    "enchantability": 21,
+    "damageVsEntity": 3.0,
+    "usageCount": 450,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

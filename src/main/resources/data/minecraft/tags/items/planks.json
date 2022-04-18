@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "forest:cherry_planks",
+    "forest:lemon_planks",
+    "forest:pear_planks",
+    "forest:peach_planks"
+  ]
+}

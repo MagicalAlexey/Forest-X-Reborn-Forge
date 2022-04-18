@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "forest:blocks/forest_lemon_planks",
+    "particle": "forest:blocks/forest_lemon_planks"
+  }
+}

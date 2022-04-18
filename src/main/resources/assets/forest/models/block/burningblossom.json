@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "forest:blocks/burning_blossom",
+    "particle": "forest:blocks/burning_blossom"
+  }
+}

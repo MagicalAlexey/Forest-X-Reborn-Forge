@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest:blocks/ash_block",
+    "up": "forest:blocks/ash_block",
+    "north": "forest:blocks/ash_block",
+    "east": "forest:blocks/ash_block",
+    "south": "forest:blocks/ash_block",
+    "west": "forest:blocks/ash_block",
+    "particle": "forest:blocks/ash_block"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 29,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PeachWood"
+    },
+    "name": "peach_wood_recipe",
+    "namespace": "mod"
+  }
+}
