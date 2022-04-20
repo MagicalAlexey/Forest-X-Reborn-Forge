@@ -23,8 +23,7 @@ import java.util.Collections;
 
 public class BlackWindowsBlockBlock extends Block {
 	public BlackWindowsBlockBlock() {
-		super(BlockBehaviour.Properties.of(Material.GLASS).sound(SoundType.GLASS).strength(1f, 10f).noOcclusion()
-				.isRedstoneConductor((bs, br, bp) -> false));
+		super(BlockBehaviour.Properties.of(Material.GLASS).sound(SoundType.GLASS).strength(1f, 10f));
 	}
 
 	@Override
@@ -42,6 +41,7 @@ public class BlackWindowsBlockBlock extends Block {
 
 	@OnlyIn(Dist.CLIENT)
 	public static void registerRenderLayer() {
-		ItemBlockRenderTypes.setRenderLayer(ForestModBlocks.BLACK_WINDOWS_BLOCK.get(), renderType -> renderType == RenderType.cutout());
+		ItemBlockRenderTypes.setRenderLayer(ForestModBlocks.BLACK_WINDOWS_BLOCK.get(), renderType -> renderType == RenderType.translucent());
 	}
+
 }

@@ -17,7 +17,7 @@ import java.util.Collections;
 
 public class PearFenceBlock extends FenceBlock {
 	public PearFenceBlock() {
-		super(BlockBehaviour.Properties.of(Material.WOOD).sound(SoundType.WOOD).strength(2f, 3f));
+		super(BlockBehaviour.Properties.of(Material.LEAVES).sound(SoundType.WOOD).strength(2f, 3f));
 	}
 
 	@Override
