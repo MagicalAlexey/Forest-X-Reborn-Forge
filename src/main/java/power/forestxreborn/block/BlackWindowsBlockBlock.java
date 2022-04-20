@@ -14,6 +14,7 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
@@ -24,6 +25,11 @@ import java.util.Collections;
 public class BlackWindowsBlockBlock extends Block {
 	public BlackWindowsBlockBlock() {
 		super(BlockBehaviour.Properties.of(Material.GLASS).sound(SoundType.GLASS).strength(1f, 10f));
+	}
+
+	@Override
+	public boolean skipRendering(BlockState state, BlockState adjacentBlockState, Direction side) {
+		return adjacentBlockState.getBlock() == this ? true : super.skipRendering(state, adjacentBlockState, side);
 	}
 
 	@Override
