@@ -29,9 +29,10 @@ import net.minecraft.data.worldgen.BiomeDefaultFeatures;
 import java.util.List;
 
 public class FructicForestBiome {
-	public static final Climate.ParameterPoint PARAMETER_POINT = new Climate.ParameterPoint(Climate.Parameter.span(0, 0.55f),
-			Climate.Parameter.span(-0.5f, 1), Climate.Parameter.span(-0.065f, 0.085f), Climate.Parameter.span(0.825f, 0.975f),
-			Climate.Parameter.point(0), Climate.Parameter.span(0.368277247807f, 0.518277247807f), 0);
+	public static final Climate.ParameterPoint PARAMETER_POINT = new Climate.ParameterPoint(Climate.Parameter.span(0.623809523809f, 0.709523809523f),
+			Climate.Parameter.span(0.357142857143f, 0.442857142857f), Climate.Parameter.span(0.467142857143f, 0.552857142857f),
+			Climate.Parameter.span(0.857142857143f, 0.942857142857f), Climate.Parameter.point(0),
+			Climate.Parameter.span(0.40042010495f, 0.486134390664f), 0);
 
 	public static Biome createBiome() {
 		BiomeSpecialEffects effects = new BiomeSpecialEffects.Builder().fogColor(12638463).waterColor(4159204).waterFogColor(329011).skyColor(7972607)

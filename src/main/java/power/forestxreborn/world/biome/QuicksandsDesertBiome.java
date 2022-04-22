@@ -9,9 +9,10 @@ import net.minecraft.world.level.biome.Biome;
 import net.minecraft.data.worldgen.BiomeDefaultFeatures;
 
 public class QuicksandsDesertBiome {
-	public static final Climate.ParameterPoint PARAMETER_POINT = new Climate.ParameterPoint(Climate.Parameter.span(0, 0.55f),
-			Climate.Parameter.span(-0.5f, 1), Climate.Parameter.span(-0.065f, 0.085f), Climate.Parameter.span(0.725f, 0.875f),
-			Climate.Parameter.point(0), Climate.Parameter.span(-0.215380618882f, -0.065380618882f), 0);
+	public static final Climate.ParameterPoint PARAMETER_POINT = new Climate.ParameterPoint(Climate.Parameter.span(0.957142857143f, 1.042857142857f),
+			Climate.Parameter.span(-1.042857142857f, -0.957142857143f), Climate.Parameter.span(0.467142857143f, 0.552857142857f),
+			Climate.Parameter.span(0.757142857143f, 0.842857142857f), Climate.Parameter.point(0),
+			Climate.Parameter.span(-0.183237761739f, -0.097523476025f), 0);
 
 	public static Biome createBiome() {
 		BiomeSpecialEffects effects = new BiomeSpecialEffects.Builder().fogColor(12638463).waterColor(-13159).waterFogColor(329011).skyColor(7972607)

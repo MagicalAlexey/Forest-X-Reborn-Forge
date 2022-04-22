@@ -38,9 +38,10 @@ import java.util.List;
 import com.google.common.collect.ImmutableList;
 
 public class BurnedForestBiome {
-	public static final Climate.ParameterPoint PARAMETER_POINT = new Climate.ParameterPoint(Climate.Parameter.span(0, 0.55f),
-			Climate.Parameter.span(-0.5f, 1), Climate.Parameter.span(-0.065f, 0.085f), Climate.Parameter.span(0.625f, 0.775f),
-			Climate.Parameter.point(0), Climate.Parameter.span(-0.979067004128f, -0.829067004128f), 0);
+	public static final Climate.ParameterPoint PARAMETER_POINT = new Climate.ParameterPoint(Climate.Parameter.span(0.823809523809f, 0.909523809523f),
+			Climate.Parameter.span(-0.442857142857f, -0.357142857143f), Climate.Parameter.span(0.467142857143f, 0.552857142857f),
+			Climate.Parameter.span(0.657142857143f, 0.742857142857f), Climate.Parameter.point(0),
+			Climate.Parameter.span(-0.946924146985f, -0.861209861271f), 0);
 
 	public static Biome createBiome() {
 		BiomeSpecialEffects effects = new BiomeSpecialEffects.Builder().fogColor(-12369342).waterColor(4159204).waterFogColor(329011)

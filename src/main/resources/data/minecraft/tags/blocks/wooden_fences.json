@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "forest:peach_fence",
+    "forest:cherry_fence",
+    "forest:pear_fence",
+    "forest:lemon_fence"
+  ]
+}
